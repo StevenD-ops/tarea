@@ -1,0 +1,252 @@
+Rank	Rating	Title	Votes
+1.	9.1	The Godfather (1972)	236,496
+2.	9.1	The Shawshank Redemption (1994)	279,988
+3.	9.0	The Godfather: Part II (1974)	135,072
+4.	8.8	Buono, il brutto, il cattivo, Il (1966)	73,776
+5.	8.8	Pulp Fiction (1994)	240,740
+6.	8.8	Schindler's List (1993)	163,510
+7.	8.8	Star Wars: Episode V - The Empire Strikes Back (1980)	174,053
+8.	8.8	Casablanca (1942)	108,291
+9.	8.8	One Flew Over the Cuckoo's Nest (1975)	120,965
+10.	8.8	The Lord of the Rings: The Return of the King (2003)	216,032
+11.	8.8	Shichinin no samurai (1954)	60,033
+12.	8.7	Star Wars (1977)	212,684
+13.	8.7	12 Angry Men (1957)	55,291
+14.	8.7	Rear Window (1954)	70,642
+15.	8.7	Goodfellas (1990)	128,853
+16.	8.7	Raiders of the Lost Ark (1981)	149,010
+17.	8.7	The Lord of the Rings: The Fellowship of the Ring (2001)	252,102
+18.	8.7	Cidade de Deus (2002)	77,230
+19.	8.6	The Usual Suspects (1995)	168,962
+20.	8.6	C'era una volta il West (1968)	37,822
+21.	8.6	Psycho (1960)	87,453
+22.	8.6	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	102,484
+23.	8.6	North by Northwest (1959)	58,119
+24.	8.6	Citizen Kane (1941)	93,677
+25.	8.6	The Silence of the Lambs (1991)	149,365
+26.	8.6	The Lord of the Rings: The Two Towers (2002)	205,340
+27.	8.6	Memento (2000)	159,011
+28.	8.6	Fight Club (1999)	211,870
+29.	8.5	Sunset Blvd. (1950)	30,428
+30.	8.5	Lawrence of Arabia (1962)	51,061
+31.	8.5	It's a Wonderful Life (1946)	64,778
+32.	8.5	The Matrix (1999)	234,185
+33.	8.5	Taxi Driver (1976)	87,539
+34.	8.5	American Beauty (1999)	181,264
+35.	8.5	Vertigo (1958)	55,842
+36.	8.5	Fabuleux destin d'AmÃ©lie Poulain, Le (2001)	108,998
+37.	8.5	Apocalypse Now (1979)	108,484
+38.	8.5	Se7en (1995)	158,210
+39.	8.5	The Departed (2006)	122,363
+40.	8.5	LÃ©on (1994)	105,480
+41.	8.4	American History X (1998)	119,820
+42.	8.4	Paths of Glory (1957)	25,646
+43.	8.4	Chinatown (1974)	45,382
+44.	8.4	To Kill a Mockingbird (1962)	51,466
+45.	8.4	Eternal Sunshine of the Spotless Mind (2004)	119,492
+46.	8.4	Laberinto del fauno, El (2006)	67,556
+47.	8.4	M (1931)	22,702
+48.	8.4	The Third Man (1949)	31,354
+49.	8.4	A Clockwork Orange (1971)	114,020
+50.	8.4	The Treasure of the Sierra Madre (1948)	18,564
+51.	8.4	Alien (1979)	106,214
+52.	8.4	The Pianist (2002)	67,659
+53.	8.4	Monty Python and the Holy Grail (1975)	101,873
+54.	8.4	The Shining (1980)	96,153
+55.	8.4	L.A. Confidential (1997)	108,263
+56.	8.4	Untergang, Der (2004)	40,215
+57.	8.4	The Bridge on the River Kwai (1957)	36,667
+58.	8.4	Sen to Chihiro no kamikakushi (2001)	54,570
+59.	8.4	The Maltese Falcon (1941)	32,308
+60.	8.4	Double Indemnity (1944)	20,737
+61.	8.4	Boot, Das (1981)	46,283
+62.	8.3	Requiem for a Dream (2000)	100,413
+63.	8.3	Saving Private Ryan (1998)	166,277
+64.	8.3	Reservoir Dogs (1992)	124,762
+65.	8.3	Metropolis (1927)	22,291
+66.	8.3	Aliens (1986)	103,822
+67.	8.3	Leben der Anderen, Das (2006)	20,993
+68.	8.3	Raging Bull (1980)	51,338
+69.	8.3	Forrest Gump (1994)	164,844
+70.	8.3	Hotel Rwanda (2004)	45,648
+71.	8.3	Sin City (2005)	137,236
+72.	8.3	RashÃ´mon (1950)	22,229
+73.	8.3	Singin' in the Rain (1952)	33,999
+74.	8.3	Modern Times (1936)	19,123
+75.	8.3	Rebecca (1940)	20,399
+76.	8.3	Terminator 2: Judgment Day (1991)	131,868
+77.	8.3	The Great Escape (1963)	35,895
+78.	8.3	2001: A Space Odyssey (1968)	101,015
+79.	8.3	Some Like It Hot (1959)	41,428
+80.	8.3	All About Eve (1950)	21,503
+81.	8.3	Ratatouille (2007)	28,401
+82.	8.3	Amadeus (1984)	59,994
+83.	8.3	Sjunde inseglet, Det (1957)	19,680
+84.	8.3	Touch of Evil (1958)	19,415
+85.	8.3	On the Waterfront (1954)	23,804
+86.	8.3	The Prestige (2006)	81,639
+87.	8.2	Jaws (1975)	82,753
+88.	8.2	The Elephant Man (1980)	31,279
+89.	8.2	The Bourne Ultimatum (2007)	42,899
+90.	8.2	Vita Ã¨ bella, La (1997)	63,207
+91.	8.2	The Sting (1973)	39,750
+92.	8.2	Strangers on a Train (1951)	19,256
+93.	8.2	The Manchurian Candidate (1962)	22,910
+94.	8.2	Full Metal Jacket (1987)	85,056
+95.	8.2	Batman Begins (2005)	134,276
+96.	8.2	The Apartment (1960)	19,713
+97.	8.2	Braveheart (1995)	151,038
+98.	8.2	The Big Sleep (1946)	17,391
+99.	8.2	City Lights (1931)	14,124
+100.	8.2	Mr. Smith Goes to Washington (1939)	20,069
+101.	8.2	Nuovo cinema Paradiso (1988)	25,676
+102.	8.2	The Great Dictator (1940)	19,628
+103.	8.2	Blade Runner (1982)	115,149
+104.	8.2	Once Upon a Time in America (1984)	39,143
+105.	8.2	Notorious (1946)	18,371
+106.	8.2	The Wizard of Oz (1939)	63,387
+107.	8.2	Star Wars: Episode VI - Return of the Jedi (1983)	136,950
+108.	8.2	Million Dollar Baby (2004)	73,351
+109.	8.2	High Noon (1952)	20,561
+110.	8.2	Fargo (1996)	101,493
+111.	8.2	Kill Bill: Vol. 1 (2003)	132,548
+112.	8.2	Donnie Darko (2001)	117,361
+113.	8.2	Ran (1985)	21,077
+114.	8.2	Salaire de la peur, Le (1953)	6,935
+115.	8.2	Cool Hand Luke (1967)	25,208
+116.	8.2	Back to the Future (1985)	117,390
+117.	8.2	Unforgiven (1992)	54,106
+118.	8.2	Oldboy (2003)	43,925
+119.	8.2	Indiana Jones and the Last Crusade (1989)	100,954
+120.	8.1	Mononoke-hime (1997)	37,495
+121.	8.1	3:10 to Yuma (2007)	9,073
+122.	8.1	Grindhouse (2007)	39,729
+123.	8.1	Annie Hall (1977)	37,867
+124.	8.1	The Green Mile (1999)	110,420
+125.	8.1	Per qualche dollaro in piÃ¹ (1965)	20,804
+126.	8.1	The Sixth Sense (1999)	154,539
+127.	8.1	Yojimbo (1961)	16,953
+128.	8.1	The Incredibles (2004)	82,294
+129.	8.1	Finding Nemo (2003)	87,300
+130.	8.1	Gladiator (2000)	162,518
+131.	8.1	Ben-Hur (1959)	35,113
+132.	8.1	Life of Brian (1979)	57,082
+133.	8.1	Ladri di biciclette (1948)	13,937
+134.	8.1	Children of Men (2006)	71,202
+135.	8.1	V for Vendetta (2005)	111,792
+136.	8.1	The Deer Hunter (1978)	51,214
+137.	8.1	The Killing (1956)	13,274
+138.	8.1	Die Hard (1988)	105,191
+139.	8.1	Platoon (1986)	63,671
+140.	8.1	Notti di Cabiria, Le (1957)	5,332
+141.	8.1	Crash (2004/I)	97,236
+142.	8.1	Diaboliques, Les (1955)	6,955
+143.	8.1	The Princess Bride (1987)	84,009
+144.	8.1	Battaglia di Algeri, La (1966)	6,382
+145.	8.1	The Graduate (1967)	47,342
+146.	8.1	Letters from Iwo Jima (2006)	20,669
+147.	8.1	It Happened One Night (1934)	13,860
+148.	8.1	Kind Hearts and Coronets (1949)	6,896
+149.	8.1	Amores perros (2000)	33,186
+150.	8.1	SmultronstÃ¤llet (1957)	10,953
+151.	8.1	The Wild Bunch (1969)	18,350
+152.	8.0	Butch Cassidy and the Sundance Kid (1969)	34,031
+153.	8.0	Gandhi (1982)	28,215
+154.	8.0	Shadow of a Doubt (1943)	11,060
+155.	8.0	Kill Bill: Vol. 2 (2004)	100,734
+156.	8.0	Superbad (2007)	32,808
+157.	8.0	Judgment at Nuremberg (1961)	7,214
+158.	8.0	Dog Day Afternoon (1975)	30,557
+159.	8.0	Little Miss Sunshine (2006)	69,704
+160.	8.0	The General (1927)	11,376
+161.	8.0	8Â½ (1963)	15,471
+162.	8.0	The African Queen (1951)	21,857
+163.	8.0	Brief Encounter (1945)	6,320
+164.	8.0	The Adventures of Robin Hood (1938)	13,326
+165.	8.0	Stand by Me (1986)	53,289
+166.	8.0	Wo hu cang long (2000)	76,256
+167.	8.0	The Night of the Hunter (1955)	13,692
+168.	8.0	Heat (1995)	82,271
+169.	8.0	Hot Fuzz (2007)	56,150
+170.	8.0	The Conversation (1974)	18,461
+171.	8.0	Harvey (1950)	13,450
+172.	8.0	The Big Lebowski (1998)	95,516
+173.	8.0	Gone with the Wind (1939)	47,911
+174.	8.0	Nosferatu, eine Symphonie des Grauens (1922)	15,923
+175.	8.0	Duck Soup (1933)	16,266
+176.	8.0	The Grapes of Wrath (1940)	13,449
+177.	8.0	Cabinet des Dr. Caligari., Das (1920)	8,619
+178.	8.0	Witness for the Prosecution (1957)	9,346
+179.	8.0	Trainspotting (1996)	89,004
+180.	8.0	Groundhog Day (1993)	77,856
+181.	8.0	Patton (1970)	24,267
+182.	8.0	Snatch. (2000)	89,631
+183.	8.0	Toy Story (1995)	78,327
+184.	8.0	Glory (1989)	35,949
+185.	8.0	The Thing (1982)	38,607
+186.	8.0	The Day the Earth Stood Still (1951)	17,320
+187.	8.0	Bride of Frankenstein (1935)	9,235
+188.	8.0	The Gold Rush (1925)	11,368
+189.	8.0	King Kong (1933)	22,519
+190.	8.0	Lola rennt (1998)	53,755
+191.	8.0	Twelve Monkeys (1995)	101,860
+192.	8.0	Ed Wood (1994)	42,235
+193.	8.0	Belle et la bÃªte, La (1946)	5,220
+194.	8.0	Toy Story 2 (1999)	69,225
+195.	8.0	Sleuth (1972)	8,327
+196.	8.0	Spartacus (1960)	29,605
+197.	8.0	The Terminator (1984)	100,399
+198.	8.0	Scarface (1983)	75,879
+199.	8.0	The Lady Vanishes (1938)	8,925
+200.	8.0	In the Heat of the Night (1967)	12,716
+201.	8.0	The Exorcist (1973)	59,880
+202.	7.9	Magnolia (1999)	76,691
+203.	7.9	Frankenstein (1931)	12,795
+204.	7.9	The Ox-Bow Incident (1943)	4,254
+205.	7.9	Big Fish (2003)	73,399
+206.	7.9	Mystic River (2003)	62,439
+207.	7.9	The Hustler (1961)	14,372
+208.	7.9	The Lion King (1994)	66,070
+209.	7.9	Casino Royale (2006)	90,640
+210.	7.9	The Best Years of Our Lives (1946)	10,307
+211.	7.9	Anatomy of a Murder (1959)	7,847
+212.	7.9	Lock, Stock and Two Smoking Barrels (1998)	65,955
+213.	7.9	Stalker (1979)	9,518
+214.	7.9	Ying xiong (2002)	50,385
+215.	7.9	The Philadelphia Story (1940)	17,303
+216.	7.9	A Christmas Story (1983)	33,809
+217.	7.9	Bonnie and Clyde (1967)	22,303
+218.	7.9	Young Frankenstein (1974)	37,398
+219.	7.9	Rosemary's Baby (1968)	25,195
+220.	7.9	Pirates of the Caribbean: The Curse of the Black Pearl (2003)	141,768
+221.	7.9	Out of the Past (1947)	5,640
+222.	7.9	Hotaru no haka (1988)	16,880
+223.	7.9	Finding Neverland (2004)	53,415
+224.	7.9	A Streetcar Named Desire (1951)	18,612
+225.	7.9	In Cold Blood (1967)	5,763
+226.	7.9	Stalag 17 (1953)	12,237
+227.	7.9	Cinderella Man (2005)	36,692
+228.	7.9	Shaun of the Dead (2004)	62,958
+229.	7.9	Shrek (2001)	114,373
+230.	7.9	Dial M for Murder (1954)	15,244
+231.	7.9	Mou gaan dou (2002)	18,465
+232.	7.9	Manhattan (1979)	21,779
+233.	7.9	Rope (1948)	15,228
+234.	7.9	Casino (1995)	55,386
+235.	7.9	Zodiac (2007/I)	37,311
+236.	7.9	Du rififi chez les hommes (1955)	4,154
+237.	7.9	All Quiet on the Western Front (1930)	12,504
+238.	7.9	Umberto D. (1952)	3,861
+239.	7.9	The Lost Weekend (1945)	6,251
+240.	7.9	Before Sunset (2004)	26,770
+241.	7.9	Doctor Zhivago (1965)	18,428
+242.	7.9	A Man for All Seasons (1966)	7,686
+243.	7.9	Roman Holiday (1953)	17,292
+244.	7.9	Brazil (1985)	50,745
+245.	7.9	Hauru no ugoku shiro (2004)	19,581
+246.	7.9	Haine, La (1995)	13,905
+247.	7.9	Mulholland Dr. (2001)	63,542
+248.	7.9	Walk the Line (2005)	50,952
+249.	7.9	The Man Who Shot Liberty Valance (1962)	13,235
+250.	7.9	Harold and Maude (1971)	16,170
+
